@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjundipunath
+- 👋 Hi, I’m Arjun Dipunath
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning 
 - 📫 Reach me -arjundipunath2@gmail.com 
